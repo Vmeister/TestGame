@@ -1,0 +1,18 @@
+.pane {
+  -fx-background-color: #0214d8;
+  -fx-background-radius: 25 25 25 25;
+  -fx-border-style: solid;
+  -fx-border-radius: 8 8 8 8;
+  -fx-border-color: white;
+  -fx-border-width: 5;
+  -fx-padding: 3;
+}
+.textarea {
+  -fx-background-color: #0214d8;
+  -fx-background-radius: 25 25 25 25;
+  -fx-border-style: solid;
+  -fx-border-radius: 10 10 10 10;
+  -fx-border-color: white;
+  -fx-border-width: 5;
+  -fx-padding: 3;
+}
